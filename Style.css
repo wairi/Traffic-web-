@@ -1,0 +1,21 @@
+h1{
+    color:grey;
+    text-align: center;
+}
+.links, .updates, .locations, .statistics, .information{
+    border: 1px solid white;
+    padding: 18px;
+    position: relative;
+    text-align:center;
+    width: 100%;
+}
+.links a, .locations a, .updates a, .statistics a, .information a{
+    padding: 18px;
+    background: yellowgreen;
+    border: 1px solid yellowgreen;
+    border-radius: 3px;
+    color:white;
+    display: inline-block;
+    margin: 2px;
+}
+
